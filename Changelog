@@ -1,0 +1,16 @@
+CHANGELOG
+
+0.3.1 (2003-05-25)
+-------------------------------------------------------------------------------
+ - The name of CatholicEasterDay is wrong in the header file (fixed).
+
+0.3.0 (2003-05-04)
+-------------------------------------------------------------------------------
+ - Some dummy functions removed
+ - There are now two separate routnes for calculation of the Catholic Easter day
+   and Prawoslawniq Easter day
+
+0.1.0 (2001-12-14)
+-------------------------------------------------------------------------------
+ - Initial release
+
