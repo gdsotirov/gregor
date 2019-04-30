@@ -1,7 +1,6 @@
-Gregorian Calendar Functions
-$Id: README,v 1.1 2005/04/20 18:47:35 gsotirov Exp $
+[![Build Status](https://travis-ci.com/gdsotirov/gregor.svg?branch=master)](https://travis-ci.com/gdsotirov/gregor)
 
----
+# Gregorian Calendar Functions
 
 This is one of my works when I was in Technical University of Sofia. Here I
 implement some useful functions for work with the Gregorian calendar. I code
