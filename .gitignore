@@ -1,0 +1,7 @@
+*.a
+*.o
+*.so*
+.cproject
+.project
+.settings
+easter
