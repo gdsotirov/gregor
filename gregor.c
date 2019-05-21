@@ -5,7 +5,7 @@
  * Version      : 0.3.1                                                       *
  * Date started : 2001-12-14 12:00 GMT                                        *
  * Date modified: 2003-05-04 14:00 GMT                                        *
- * Author       : George D. Sotirov <gdsotirov@dir.bg>                        *
+ * Author       : Georgi D. Sotirov <gdsotirov@dir.bg>                        *
  * CVS Id       : $Id: gregor.c,v 1.1 2005/04/20 18:47:35 gsotirov Exp $
  ******************************************************************************/
 
@@ -13,7 +13,7 @@
 
 /******************************************************************************
  * Function     : isGregorian                                                 *
- * Purpose      : To find if a specific year is a gregorian calendaar year.   *
+ * Purpose      : To find if a specific year is a gregorian calendar year.    *
  * Returns      : 1 if year is gregorian, and 0 if not                        *
  ******************************************************************************/
 
@@ -27,7 +27,7 @@ int isGregorian(year)
 
 /******************************************************************************
  * Function     : isLeapYear                                                  *
- * Purpose      : Finds wheather specific year is leap or not.                *
+ * Purpose      : Finds whether specific year is leap or not.                 *
  * Returns      : 1 if the year is leap or 0 otherwise.                       *
  ******************************************************************************/
 
@@ -96,7 +96,7 @@ int CatholicEasterDay(month, day, year)
 
 /******************************************************************************
  * Function     : EasterDay                                                   *
- * Purpose      : Finds the date of easter day with the modified Gaus         *
+ * Purpose      : Finds the date of easter day with the modified Gauss        *
  *                algorithm.                                                  *
  * Returns      : One on successful operation otherwise zero.                 *
  ******************************************************************************

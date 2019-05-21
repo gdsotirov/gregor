@@ -7,8 +7,8 @@ CHANGELOG
 0.3.0 (2003-05-04)
 -------------------------------------------------------------------------------
  - Some dummy functions removed
- - There are now two separate routnes for calculation of the Catholic Easter day
-   and Prawoslawniq Easter day
+ - There are now two separate routines for calculation of the Catholic Easter day
+   and Orthodox Easter day
 
 0.1.0 (2001-12-14)
 -------------------------------------------------------------------------------
