@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/gdsotirov/gregor.svg?branch=master)](https://travis-ci.com/gdsotirov/gregor)
-![](https://github.com/gdsotirov/gregor/workflows/C/C++%20CI/badge.svg)
+[![Action Status](https://github.com/gdsotirov/gregor/workflows/C/C++%20CI/badge.svg)](https://github.com/gdsotirov/gregor/actions?query=workflow%3A%22C%2FC%2B%2B+CI%22)
 
 # Gregorian Calendar Functions
 
