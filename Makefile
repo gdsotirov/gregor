@@ -1,6 +1,5 @@
 # Gregorian calendar routines
-# Written by Georgi D. Sotirov <gdsotirov@dir.bg
-# $Id: Makefile,v 1.1 2005/04/20 18:47:35 gsotirov Exp $
+# Written by Georgi D. Sotirov <gdsotirov@gmail.com
 
 CC = gcc
 AR = ar

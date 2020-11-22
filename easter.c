@@ -1,7 +1,6 @@
 /* File       : easter.c
  * Description: A test program for the Gregorian Calendar Functions.
- * Written by : Georgi D. Sotirov <gdsotirov@dir.bg>
- * CVS Id     : $Id: easter.c,v 1.3 2017/10/16 12:40:13 gsotirov Exp $
+ * Written by : Georgi D. Sotirov <gdsotirov@gmail.com>
  */
 
 #include <stdio.h>

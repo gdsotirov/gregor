@@ -5,8 +5,7 @@
  * Version      : 0.3.1                                                       *
  * Date started : 2001-12-14 12:00 GMT                                        *
  * Date modified: 2003-05-04 14:00 GMT                                        *
- * Author       : Georgi D. Sotirov <gdsotirov@dir.bg>                        *
- * CVS Id       : $Id: gregor.c,v 1.1 2005/04/20 18:47:35 gsotirov Exp $
+ * Author       : Georgi D. Sotirov <gdsotirov@gmail.com>                     *
  ******************************************************************************/
 
 #include "gregor.h"
